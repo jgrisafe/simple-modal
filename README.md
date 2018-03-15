@@ -24,5 +24,7 @@
   example above.
   
   If you want to adjust the css you can in modal.css
+  
+  ![demo][modal-demo.gif]
 
   That's it!
