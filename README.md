@@ -9,9 +9,9 @@
  - data-modal-trigger
  - data-modal-content
 
-  Any element with a data-modal-trigger="identifier" will cause the modal to open.
+  Any element with a `data-modal-trigger="identifier"` will cause the modal to open.
   If you want to create the modal content on your html, just put a
-  data-modal-content="indentifier" on the element. The content will not show on the page unless the modal
+  `data-modal-content="indentifier"` on the element. The content will not show on the page unless the modal
   is open. The "identifier" can be called whatever you want, but they need to match up 
   for the trigger to link up. You can also set the modal content in javascript by calling the following code:
   
